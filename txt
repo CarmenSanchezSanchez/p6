@@ -1,0 +1,90 @@
+<header class="card_img">
+    <h1>Retrato de Adele Bloch-Bauer I</h1>
+    <h2>Gustav Klimt</h2>
+    <p>es el cuadro más representativo de toda la carrera de Gustav Klimt. Pintado durante la llamada “época dorada”, en la cual el artista desarrolló toda clase de
+      obras utilizando oro.
+      Esta pintura fue hecha en 3 años (terminada en 1907), lo que denota la gran dedicación
+      y valor que Klimt le otorgaba.</p>
+
+ </header>
+ </div>
+ <div class="card 2">
+  <figure class="card_img">
+      <img src="img/02.jpg" alt="">
+  </figure>
+ <header class="card_img">
+       <h1>Bosque de pinos</h1>
+       <h2>Gustav Klimt</h2>
+       <p>obra de paisaje otoñal con troncos rojizos y suelo cubierto de hojas en la misma tonalidad. 
+          Aunque el artista no se especializaba en este estilo la obra es una impecable mixtura entre 
+          los estilos abstracto e impresionista. Prueba de la gran versatilidad de Klimt.</p>
+ </header>
+ </div>
+ <div class="card 3">
+  <figure class="card_img">
+      <img src="img/03.jpg" alt="">
+  </figure>
+ <header class="card_img">
+       <h1>Danae</h1>
+       <h2>Gustav Klimt</h2>
+       <p>El cuadro Danae de Gustav Klimt es una de las obras más representativas de la colección de desnudos 
+          femeninos del artista. En ella demuestra la maestría de su trazo al delinear formas de mujer.
+           Aunque el estilo de Klimt es único y rompe con algunas reglas clásicas de la composición artística, 
+           en esta pintura demuestra que ha dominado las reglas antes de romperlas, lo que a ojos de los 
+           especialistas le confiere la autoridad de maestro.</p>
+ </header>
+ </div>
+ <div class="card 4">
+  <figure class="card_img">
+      <img src="img/04.jpg" alt="">
+  </figure>
+ <header class="card_img">
+       <h1>Muerte y vida</h1>
+       <h2>Gustav Klimt</h2>
+       <p>Cuadro de Gustav Klimt sobre le muerte y la vida, pintado en 1910. En esta obra el artista quiso 
+          representar la vida mostrando personas de todas las generaciones, desde el bebé hasta la abuela, 
+          como símbolo de el círculo sin fin de la existencia.
+          Los vestuarios de los personajes están prolijamente adornados con círculos tonos pastel, y las 
+          figuras son del inconfundible estilo del artista: cuerpos entrelazados, decoración de mosaico y pieles femeninas pálidas.
+          La importancia de este cuadro en opinión del propio Klimt fue enorme, El mismo lo citaba como su obra figurativa más 
+          destacada. Actualmente se encuentra expuesto en el Museo Leopold de Viena.</p>
+ </header>
+ </div>
+ <div class="card 5">
+  <figure class="card_img">
+      <img src="img/05.jpg" alt="">
+  </figure>
+ <header class="card_img">
+       <h1>Serpientes Acuáticas I</h1>
+       <h2>Gustav Klimt</h2>
+       <p>Este cuadro como otros del artista muestra el gusto especial de Klimt por pintar figuras femeninas. El entorno onírico 
+          que se aprecia en esta obra, se repite en los trabajos más famosos de este artista. Parte de esta colección es el 
+          cuadro Serpientes Acuáicas I.</p>
+ </header>
+ </div>
+ <div class="card 6">
+  <figure class="card_img">
+      <img src="img/06.jpg" alt="">
+  </figure>
+ <header class="card_img">
+       <h1>La Virgen</h1>
+       <h2>Gustav Klimt</h2>
+       <p>Cuadro famoso del artista Gustav Klimt. La obra muesta un grupo de mujeres entrelazadas con telas de colores vivos. 
+          La pintura fue realizada en el año 1913, es una de las obras más representativas del artista austríaco.</p>
+ </header>
+ </div>
+</div>
+
+</main>
+</body>
+</html>
+            <div class="gallery">
+                <div class="card">
+                    <figure class="card_img">
+                     <img src="" alt="">
+                    </figure>
+                    <header>
+                          <h1></h1>
+                          <h2></h2>
+                          <p></p>
+                    </header>
